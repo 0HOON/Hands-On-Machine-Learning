@@ -1,2 +1,2 @@
-model_checkpoint_path: "/tmp/09. my_logreg_model.ckpt"
-all_model_checkpoint_paths: "/tmp/09. my_logreg_model.ckpt"
+model_checkpoint_path: "09. my_logreg_model.ckpt"
+all_model_checkpoint_paths: "09. my_logreg_model.ckpt"
